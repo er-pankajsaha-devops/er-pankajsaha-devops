@@ -12,6 +12,6 @@
 - 💰 Project 4: Leveraging Karpenter for cost-effective Node Autoscaling.
 
 ## Connect with Me
-- 📫 Let's connect on [LinkedIn]([url](https://www.linkedin.com/in/pankaj-saha-devsecops/)).
+- 📫 Let's connect on https://www.linkedin.com/in/pankaj-saha-devsecops/  Linkedin.
 
 Feel free to explore my repositories and drop a star if you find something interesting! 🌟
