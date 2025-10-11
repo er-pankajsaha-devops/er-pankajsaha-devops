@@ -1,7 +1,7 @@
 ## About Me
 - 🌐 I love working with cloud platforms like AWS, Azure, and GCP.
-- 🚀 Proficient in CI/CD pipelines using GitLab CI/CD.
-- 📦 Infrastructure as Code (IaC) enthusiast: Terraform, Ansible, and Helm are my jam.
+- 🚀 Proficient in CI/CD pipelines using GitLab & GitHub CI/CD.
+- 📦 Infrastructure as Code (IaC) enthusiast: Terraform, Ansible, Salt and Helm are my jam.
 - 🌱 Always learning and exploring new tools to enhance system reliability and efficiency.
 - 💰 Cost optimization advocate: I believe in efficient resource utilization.
 
